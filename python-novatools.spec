@@ -36,3 +36,14 @@ rm docs/_build/html/.buildinfo
 %{_bindir}/%module
 %{python_sitearch}/*
 
+
+
+%changelog
+* Wed Jun 08 2011 Antoine Ginies <aginies@mandriva.com> 2.0-1mdv2011.0
++ Revision: 683260
+- import python-novatools
+
+
+* Wed Jun 8 2011 Antoine Ginies <aginies@mandriva.com> 2.0
+- first release for Mandriva 
+
