@@ -1,7 +1,7 @@
 %define module novatools
 Name:           python-%module
 Version:        2.0
-Release:        %mkrel 1
+Release:        2
 License:        BSD
 Summary:        Client library for OpenStack Nova API
 Url:            http://pypi.python.org/pypi/python-%module
