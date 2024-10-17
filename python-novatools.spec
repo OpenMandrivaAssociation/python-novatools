@@ -4,7 +4,7 @@ Version:        2.0
 Release:        2
 License:        BSD
 Summary:        Client library for OpenStack Nova API
-Url:            http://pypi.python.org/pypi/python-%module
+Url:            https://pypi.python.org/pypi/python-%module
 Group:          Development/Python
 Source:         python-%module-2.0.tar.gz
 BuildRequires:  python-devel python-setuptools python-sphinx
