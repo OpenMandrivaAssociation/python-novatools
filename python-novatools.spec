@@ -7,6 +7,7 @@ Summary:        Client library for OpenStack Nova API
 Url:            https://pypi.python.org/pypi/python-%module
 Group:          Development/Python
 Source:         python-%module-2.0.tar.gz
+BuildRequires:	make
 BuildRequires:  python-devel python-setuptools python-sphinx
 Requires:       python-prettytable python-httplib2
 BuildRoot:      %{_tmppath}/%{name}-%{version}-build
